@@ -58,5 +58,5 @@ Here are some of the tools I've also used during my course
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DoctorPingu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPingu&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPingu&theme=dark&size_weight=0.5&count_weight=0.5)
 
