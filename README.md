@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey👋
+
+<div id="header" align="center">
+  <img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhmZHB4eDJiMTRrcGU5c2R2NHoydTcydnJlM25hc2lqZ2dpdGl6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif/>
+</div>
 
 <!--
 **DoctorPingu/DoctorPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
