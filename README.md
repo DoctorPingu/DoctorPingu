@@ -1,7 +1,11 @@
 ## Welcome to my Profile!👋
 
+Here are my socials!
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohammed-al-khudhair/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@doctor_pingu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
