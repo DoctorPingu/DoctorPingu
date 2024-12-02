@@ -1,8 +1,6 @@
 ## Welcome to my Profile!👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y2lkPTc5MGI3NjExdHY3YzJyMmVsMGQ3NWI0OXBlN3hpenN1MmU1cGE2aDEyaG5lc2w0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDPv54rvXkkA8/giphy.gif" width="100"/>
-</div>
+<iframe src="https://giphy.com/embed/iDPv54rvXkkA8" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pingu-noot-gif-iDPv54rvXkkA8">via GIPHY</a></p>
 
 https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY3YzJyMmVsMGQ3NWI0OXBlN3hpenN1MmU1cGE2aDEyaG5lc2w0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDPv54rvXkkA8/giphy.gif
 
