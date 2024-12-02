@@ -17,7 +17,7 @@ Here are my socials!
 
 ### 💬 About Me :
 
-😄 I'm currently an undergraduate student studying a Bachelor of Computing Science Honours
+I'm currently an undergraduate student studying a Bachelor of Computing Science Honours
 
 - :telescope: I focus more towards Artificial Intelligence and Data Analytics
 
@@ -29,7 +29,7 @@ Here are my socials!
 
 ### :hammer_and_wrench: Languages and Tools :
 
-🔨 Here are some of the languages I've explored and experimented with during my course
+Here are some of the languages I've explored and experimented with during my course
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@ Here are my socials!
 </div>
 <br>
 
-🔧 Here are some of the tools I've also used during my course
+Here are some of the tools I've also used during my course
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"  alt="Kaggle" width="40" height="40"/>&nbsp;
