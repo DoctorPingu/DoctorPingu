@@ -2,13 +2,15 @@
 
 Here are my socials!
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mohammed-al-khudhair/">
+  <a href="https://www.linkedin.com/in/mohammed-al-khudhair/" style="display: block;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@doctor_pingu">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/@doctor_pingu" style="display: block;">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <!--
 **DoctorPingu/DoctorPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
