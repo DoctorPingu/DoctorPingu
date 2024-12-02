@@ -1,8 +1,10 @@
 ## Welcome to my Profile!👋
 
 <div id="header" align="center">
-  <img src=<iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
 
 <!--
 **DoctorPingu/DoctorPingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
