@@ -21,49 +21,60 @@ Here are my socials!
 
 ### About Me :
 
-I'm currently an undergraduate student studying a Bachelor of Computing Science Honours
+I'm an undergraduate student at the University of Technology Sydney, pursuing a Bachelor of Computing Science (Honours) with a strong focus on Artificial Intelligence and Data Analytics.
 
-- :telescope: I focus more towards Artificial Intelligence and Data Analytics
+- My primary goal is to build a career in Data Science and Machine Learning, where I can apply my skills to solve complex problems and uncover data-driven insights.
 
-- :seedling: I'm exploring the possibilites of Machine Learning and various tools used in AI and Data Science
+- I'm passionate about exploring the endless possibilities of AI, from predictive modeling to neural networks. My interest also extends to the practical application of AI, including the game AI and procedural logic that bring virtual worlds to life.
 
-- :zap: I love playing a variety of games in my free time
+- To complement my core interests, I am actively learning about other areas of software development, including full-stack development, to become a more well-rounded technologist.
 
 ---
 
-### Languages and Tools :
+### Tech Stack
 
-Here are some of the languages I've explored and experimented with during my course
+Here is a summary of the languages, libraries, and tools I have experience with through my coursework and personal projects.
 
+**Languages**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="50" height="40"/>
 </div>
 <br>
 
-Here are some of the tools I've also used during my course
-
+**Data Science & Machine Learning**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"  alt="Kaggle" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="40"/>
+</div>
+<br>
+
+**Developer Tools & Platforms**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="50" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="50" height="40"/>
 </div>
 
 ---
+
 ### Stats :
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DoctorPingu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DoctorPingu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPingu&layout=compact&theme=dark&hide_title=true&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=DoctorPingu&show_icons=true&locale=en&theme=dark&background=000000" alt="DoctorPingu's GitHub Stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPingu&layout=compact&theme=dark&hide_title=true&card_width=320&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
