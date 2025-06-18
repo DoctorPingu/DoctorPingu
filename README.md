@@ -19,7 +19,7 @@ Here are my socials!
 
 ---
 
-### 💬 About Me :
+### About Me :
 
 I'm currently an undergraduate student studying a Bachelor of Computing Science Honours
 
@@ -31,7 +31,7 @@ I'm currently an undergraduate student studying a Bachelor of Computing Science 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 Here are some of the languages I've explored and experimented with during my course
 
@@ -58,7 +58,7 @@ Here are some of the tools I've also used during my course
 </div>
 
 ---
-### 🔥 My Stats :
+### Stats :
 
 <div align="center">
 
