@@ -9,6 +9,10 @@ Here are my socials!
   <a href="https://www.youtube.com/@doctor_pingu">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+  <br>
+  <a href="https://steamcommunity.com/id/Doctor_Pingu/">
+    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+  </a>
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=DoctorPingu&style=flat-square&color=blue" alt=""/>
