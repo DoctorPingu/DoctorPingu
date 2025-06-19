@@ -75,7 +75,6 @@ Here is a summary of the languages, libraries, and tools I have experience with 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DoctorPingu&show_icons=true&locale=en&theme=dark&background=000000" alt="DoctorPingu's GitHub Stats" />
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorPingu&layout=compact&theme=dark&hide_title=true&card_width=320&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
