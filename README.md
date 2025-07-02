@@ -15,7 +15,7 @@ Here are my socials!
   </a>
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=DoctorPingu&style=flat-square&color=blue" alt="Total Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=DoctorPingu&style=plastic&color=blue&abbreviated=true" alt="Total Profile Views"/>
 
 ---
 
