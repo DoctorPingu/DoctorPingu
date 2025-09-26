@@ -31,6 +31,27 @@ I'm an undergraduate student at the University of Technology Sydney, pursuing a 
 
 ---
 
+## 🚀 Featured Projects
+
+### [Sydney Trains Performance Analysis](https://github.com/Woak0/Sydney-Trains-Performance-Analysis)
+![Sydney Trains Project](https://raw.githubusercontent.com/Woak0/Sydney-Trains-Performance-Analysis/main/output/sydney_trains_dashboard.png)
+An end-to-end data analytics project using Sydney Trains patronage data. Implemented anomaly detection with LightGBM and SMOTE, supported by Power BI dashboards, notebooks, and outputs.  
+*Created with [Malek El-Benni](https://github.com/Woak0).*
+
+---
+
+### [Smart Interview Assistance](https://github.com/DoctorPingu/Smart-Interview-Assistance)
+![Smart Interview Assistance](https://raw.githubusercontent.com/DoctorPingu/Smart-Interview-Assistance/main/images/demo.gif)
+A hybrid TensorFlow + Transformers model designed to evaluate interview answers. Combines BERT embeddings with handcrafted linguistic features to generate regression-based performance scores.
+
+---
+
+### [Rainfall Prediction (KNIME)](https://github.com/DoctorPingu/rainfall-prediction-knime)
+![Rainfall Prediction](https://raw.githubusercontent.com/DoctorPingu/rainfall-prediction-knime/main/images/workflow.png)
+A KNIME-based workflow for predicting rainfall using Bureau of Meteorology (BOM) datasets. Includes preprocessing, feature engineering, and ML classification nodes to build predictive models.
+
+---
+
 ### Tech Stack
 
 Here is a summary of the languages, libraries, and tools I have experience with through my coursework and personal projects.
