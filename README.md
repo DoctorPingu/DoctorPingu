@@ -34,8 +34,8 @@ I'm an undergraduate student at the University of Technology Sydney, pursuing a 
 ## 🚀 Featured Projects
 
 ### [Sydney Trains Performance Analysis](https://github.com/Woak0/Sydney-Trains-Performance-Analysis)
-![Sydney Trains Project](https://raw.githubusercontent.com/Woak0/Sydney-Trains-Performance-Analysis/main/output/sydney_trains_dashboard.png)
-An end-to-end data analytics project using Sydney Trains patronage data. Implemented anomaly detection with LightGBM and SMOTE, supported by Power BI dashboards, notebooks, and outputs.  
+![Sydney Trains Project](https://raw.githubusercontent.com/Woak0/Sydney-Trains-Performance-Analysis/main/dashboard_demo.gif)
+An end-to-end data analytics project using Sydney Trains patronage data. Implemented anomaly detection with LightGBM and SMOTE, supported by interactive Power BI dashboards, notebooks, and outputs.  
 *Created with [Malek El-Benni](https://github.com/Woak0).*
 
 ---
