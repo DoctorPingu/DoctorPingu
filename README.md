@@ -41,13 +41,11 @@ An end-to-end data analytics project using Sydney Trains patronage data. Impleme
 ---
 
 ### [Smart Interview Assistance](https://github.com/DoctorPingu/Smart-Interview-Assistance)
-![Smart Interview Assistance](https://raw.githubusercontent.com/DoctorPingu/Smart-Interview-Assistance/main/images/demo.gif)
 A hybrid TensorFlow + Transformers model designed to evaluate interview answers. Combines BERT embeddings with handcrafted linguistic features to generate regression-based performance scores.
 
 ---
 
 ### [Rainfall Prediction (KNIME)](https://github.com/DoctorPingu/rainfall-prediction-knime)
-![Rainfall Prediction](https://raw.githubusercontent.com/DoctorPingu/rainfall-prediction-knime/main/images/workflow.png)
 A KNIME-based workflow for predicting rainfall using Bureau of Meteorology (BOM) datasets. Includes preprocessing, feature engineering, and ML classification nodes to build predictive models.
 
 ---
