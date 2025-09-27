@@ -40,7 +40,7 @@ An end-to-end data analytics project using Sydney Trains patronage data. Impleme
 
 ---
 
-### [Smart Interview Assistance](https://github.com/DoctorPingu/Smart-Interview-Assistance)
+### [Smart Interview Assistance](https://github.com/pathustler/Smart-Interview-Assistance)
 A hybrid TensorFlow + Transformers model designed to evaluate interview answers. Combines BERT embeddings with handcrafted linguistic features to generate regression-based performance scores.
 
 ---
